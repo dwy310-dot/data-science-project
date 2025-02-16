@@ -7,16 +7,14 @@ This project demonstrates proficiency in Python programming using data science t
 
 ## Key Objectives
 
-The project covers, but is not limited to, the following aspects:
+Manipulation of various data structures, including dictionaries and data frames, using **Pandas**.
 
-Manipulation of various data structures, including dictionaries and data frames.
+Preparing and preprocessing data for analysis, utilizing **Pandas** and **SciPy**.
 
-Preparing and preprocessing data for analysis.
+Creating plots and customizing plot markers, colors, and other elements, using **Matplotlib** and **Seaborn**.
 
-Creating plots and customizing plot markers, colors, and other elements.
+Enhancing and extending data analysis with **Pandas** and **SciPy**.
 
-Enhancing and extending data analysis.
-
-Demonstrating an understanding of different research methods for utilizing big data.
+Demonstrating an understanding of different research methods for utilizing big data, supported by **SciPy** and **Statsmodels**.
 
 Critiquing scientific approaches.
