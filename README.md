@@ -18,3 +18,11 @@ Enhancing and extending data analysis with **Pandas** and **SciPy**.
 Demonstrating an understanding of different research methods for utilizing big data, supported by **SciPy** and **Statsmodels**.
 
 Critiquing scientific approaches.
+
+## Problem Questions
+
+FIFA World Cup 2022 Scores: Data loading, analysis, and visualization.
+
+Insurance Charges Analysis: Demographic and trend analysis, correlation studies.
+
+LinkedIn UK Data Scientist Job Postings: Exploratory data analysis and visualization.
